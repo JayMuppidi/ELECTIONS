@@ -37,4 +37,4 @@ To run the notebooks in this repository, follow these steps:
 pip install pandas matplotlib geopandas plotly scikit-learn
 ```
 ## Data Sources
-The shapefile for constituencies is obtained from datameet.org, and some data is from myNeta which analyzed candidate's affidavits and organized it. In addition data is also obtained Lok Dhaba(https://lokdhaba.ashoka.edu.in).
+The shapefile for constituencies is obtained from DataMeet(http://projects.datameet.org/maps/parliamentary-constituencies), and some data is from myNeta(https://www.myneta.info) which analyzed candidate's affidavits and organized it. In addition data is also obtained Lok Dhaba(https://lokdhaba.ashoka.edu.in).
