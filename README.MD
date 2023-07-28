@@ -1,4 +1,4 @@
-# Election Analysis Repository
+# ELECTIONS
 
 This GitHub repository contains Jupyter Notebook files for analyzing election data and visualizing various aspects of the data. The repository includes the following notebooks:
 
